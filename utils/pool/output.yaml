@@ -11440,6 +11440,1148 @@ proxies:
   password: 6f0a9d0fa39d65fa
   skip-cert-verify: true
   udp: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1501 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: mugua-kr01.covid19.rip
+  server: 223.166.159.208
+  port: 63004
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1502 VMS"
+  ws-opts:
+    path: /mg
+    headers:
+      host: mugua-us01.covid19.rip
+  server: 223.166.159.208
+  port: 63014
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1503 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: uk01-cdn.airport-v2.com
+  server: 223.166.159.208
+  port: 63021
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1504 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: mugua-tr01.covid19.rip
+  server: 223.166.159.208
+  port: 63028
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1505 VMS"
+  ws-opts:
+    path: /hls
+    headers:
+      host: mugua-in01.airport-v2.com
+  server: 223.166.159.208
+  port: 63051
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1506 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: mugua-ru01.myn1des.com
+  server: 223.166.159.208
+  port: 63071
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1507 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: ag01-cdn.myn1des.com
+  server: 223.166.159.208
+  port: 63072
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1508 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: hk-balancer.airport-v2.com
+  server: 223.166.159.208
+  port: 63078
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1509 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: hkt2-cdn.tencent.best
+  server: 223.166.159.208
+  port: 63081
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1510 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: hkt3-cdn.tencent.best
+  server: 223.166.159.208
+  port: 63082
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1511 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: de01-cdn.airport-v2.com
+  server: 223.166.159.208
+  port: 63084
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1512 VMS"
+  ws-opts:
+    path: /mugua
+    headers:
+      host: sg-balancer.tencent.best
+  server: 223.166.159.208
+  port: 63087
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1513 VMS"
+  ws-opts:
+    path: /mugua
+    headers:
+      host: tw-load-balancer.myn1des.com
+  server: 223.166.159.208
+  port: 63088
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1514 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: mugua-kr01.covid19.rip
+  server: 223.111.202.183
+  port: 63004
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1515 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: uk01-cdn.airport-v2.com
+  server: 223.111.202.183
+  port: 63021
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1516 VMS"
+  ws-opts:
+    path: /hls
+    headers:
+      host: mugua-in01.airport-v2.com
+  server: 223.111.202.183
+  port: 63051
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1517 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: mugua-ru01.myn1des.com
+  server: 223.111.202.183
+  port: 63071
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1518 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: ag01-cdn.myn1des.com
+  server: 223.111.202.183
+  port: 63072
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1519 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: hk-balancer.airport-v2.com
+  server: 223.111.202.183
+  port: 63078
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1520 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: hkt2-cdn.tencent.best
+  server: 223.111.202.183
+  port: 63081
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1521 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: hkt3-cdn.tencent.best
+  server: 223.111.202.183
+  port: 63082
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1522 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: de01-cdn.airport-v2.com
+  server: 223.111.202.183
+  port: 63084
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1523 VMS"
+  ws-opts:
+    path: /mugua
+    headers:
+      host: sg-balancer.tencent.best
+  server: 223.111.202.183
+  port: 63087
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1524 VMS"
+  ws-opts:
+    path: /mugua
+    headers:
+      host: tw-load-balancer.myn1des.com
+  server: 223.111.202.183
+  port: 63088
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1525 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: mugua-kr01.covid19.rip
+  server: 223.167.41.29
+  port: 63004
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1526 VMS"
+  ws-opts:
+    path: /mg
+    headers:
+      host: mugua-us01.covid19.rip
+  server: 223.167.41.29
+  port: 63014
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1527 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: uk01-cdn.airport-v2.com
+  server: 223.167.41.29
+  port: 63021
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1528 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: mugua-tr01.covid19.rip
+  server: 223.167.41.29
+  port: 63028
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1529 VMS"
+  ws-opts:
+    path: /hls
+    headers:
+      host: mugua-in01.airport-v2.com
+  server: 223.167.41.29
+  port: 63051
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1530 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: mugua-ru01.myn1des.com
+  server: 223.167.41.29
+  port: 63071
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1531 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: ag01-cdn.myn1des.com
+  server: 223.167.41.29
+  port: 63072
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1532 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: hk-balancer.airport-v2.com
+  server: 223.167.41.29
+  port: 63078
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1533 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: hkt2-cdn.tencent.best
+  server: 223.167.41.29
+  port: 63081
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1534 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: hkt3-cdn.tencent.best
+  server: 223.167.41.29
+  port: 63082
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1535 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: de01-cdn.airport-v2.com
+  server: 223.167.41.29
+  port: 63084
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1536 VMS"
+  ws-opts:
+    path: /mugua
+    headers:
+      host: sg-balancer.tencent.best
+  server: 223.167.41.29
+  port: 63087
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1537 VMS"
+  ws-opts:
+    path: /mugua
+    headers:
+      host: tw-load-balancer.myn1des.com
+  server: 223.167.41.29
+  port: 63088
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1538 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: uk01-cdn.airport-v2.com
+  server: 120.241.126.212
+  port: 63021
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1539 VMS"
+  ws-opts:
+    path: /hls
+    headers:
+      host: mugua-in01.airport-v2.com
+  server: 120.241.126.212
+  port: 63051
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1540 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: ag01-cdn.myn1des.com
+  server: 120.241.126.212
+  port: 63072
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1541 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: hk-balancer.airport-v2.com
+  server: 120.241.126.212
+  port: 63078
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1542 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: hkt2-cdn.tencent.best
+  server: 120.241.126.212
+  port: 63081
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1543 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: hkt3-cdn.tencent.best
+  server: 120.241.126.212
+  port: 63082
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1544 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: de01-cdn.airport-v2.com
+  server: 120.241.126.212
+  port: 63084
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1545 VMS"
+  ws-opts:
+    path: /mugua
+    headers:
+      host: sg-balancer.tencent.best
+  server: 120.241.126.212
+  port: 63087
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1546 VMS"
+  ws-opts:
+    path: /mugua
+    headers:
+      host: tw-load-balancer.myn1des.com
+  server: 120.241.126.212
+  port: 63088
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1547 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: mugua-kr01.covid19.rip
+  server: 223.167.41.68
+  port: 63004
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1548 VMS"
+  ws-opts:
+    path: /mg
+    headers:
+      host: mugua-jp03.mynodes001.one
+  server: 223.167.41.68
+  port: 63005
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1549 VMS"
+  ws-opts:
+    path: /mg
+    headers:
+      host: mugua-us01.covid19.rip
+  server: 223.167.41.68
+  port: 63014
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1550 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: uk01-cdn.airport-v2.com
+  server: 223.167.41.68
+  port: 63021
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1551 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: mugua-tr01.covid19.rip
+  server: 223.167.41.68
+  port: 63028
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1552 VMS"
+  ws-opts:
+    path: /hls
+    headers:
+      host: mugua-in01.airport-v2.com
+  server: 223.167.41.68
+  port: 63051
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1553 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: mugua-ru01.myn1des.com
+  server: 223.167.41.68
+  port: 63071
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1554 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: ag01-cdn.myn1des.com
+  server: 223.167.41.68
+  port: 63072
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1555 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: hk-balancer.airport-v2.com
+  server: 223.167.41.68
+  port: 63078
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1556 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: hkt2-cdn.tencent.best
+  server: 223.167.41.68
+  port: 63081
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1557 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: hkt3-cdn.tencent.best
+  server: 223.167.41.68
+  port: 63082
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1558 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: de01-cdn.airport-v2.com
+  server: 223.167.41.68
+  port: 63084
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1559 VMS"
+  ws-opts:
+    path: /mugua
+    headers:
+      host: sg-balancer.tencent.best
+  server: 223.167.41.68
+  port: 63087
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1560 VMS"
+  ws-opts:
+    path: /mugua
+    headers:
+      host: tw-load-balancer.myn1des.com
+  server: 223.167.41.68
+  port: 63088
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1561 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: mugua-kr01.covid19.rip
+  server: 223.167.41.29
+  port: 63004
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1562 VMS"
+  ws-opts:
+    path: /mg
+    headers:
+      host: mugua-us01.covid19.rip
+  server: 223.167.41.29
+  port: 63014
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1563 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: uk01-cdn.airport-v2.com
+  server: 223.167.41.29
+  port: 63021
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1564 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: mugua-tr01.covid19.rip
+  server: 223.167.41.29
+  port: 63028
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1565 VMS"
+  ws-opts:
+    path: /hls
+    headers:
+      host: mugua-in01.airport-v2.com
+  server: 223.167.41.29
+  port: 63051
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1566 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: mugua-ru01.myn1des.com
+  server: 223.167.41.29
+  port: 63071
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1567 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: ag01-cdn.myn1des.com
+  server: 223.167.41.29
+  port: 63072
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1568 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: hk-balancer.airport-v2.com
+  server: 223.167.41.29
+  port: 63078
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1569 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: hk-balancer.airport-v2.com
+  server: 223.167.41.29
+  port: 63078
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1570 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: hkt2-cdn.tencent.best
+  server: 223.167.41.29
+  port: 63081
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1571 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: hkt3-cdn.tencent.best
+  server: 223.167.41.29
+  port: 63082
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1572 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: de01-cdn.airport-v2.com
+  server: 223.167.41.29
+  port: 63084
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1573 VMS"
+  ws-opts:
+    path: /mugua
+    headers:
+      host: sg-balancer.tencent.best
+  server: 223.167.41.29
+  port: 63087
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E8\U0001F1F3 CN 1574 VMS"
+  ws-opts:
+    path: /mugua
+    headers:
+      host: tw-load-balancer.myn1des.com
+  server: 223.167.41.29
+  port: 63088
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1ED\U0001F1F0 HK 1575 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: pl01x.myn1des.com
+  server: 18.166.59.142
+  port: 63077
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1ED\U0001F1F0 HK 1576 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: pl01x.myn1des.com
+  server: 18.166.176.98
+  port: 63077
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1ED\U0001F1F0 HK 1577 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: pl01x.myn1des.com
+  server: 16.163.107.10
+  port: 63077
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1ED\U0001F1F0 HK 1578 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: pl01x.myn1des.com
+  server: 20.24.96.229
+  port: 63077
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1FA\U0001F1F3 UN 1579 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: ag01-cdn.myn1des.com
+  server: ag01-cdn.myn1des.com
+  port: 2086
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1FA\U0001F1F3 UN 1580 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: de01-cdn.airport-v2.com
+  server: de01-cdn.airport-v2.com
+  port: 2086
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1FA\U0001F1F3 UN 1581 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: hkt2-cdn.tencent.best
+  server: hkt2-cdn.tencent.best
+  port: 2086
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1FA\U0001F1F3 UN 1582 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: hkt3-cdn.tencent.best
+  server: hkt3-cdn.tencent.best
+  port: 2086
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1FA\U0001F1F8 US 1583 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: uk01-cdn.airport-v2.com
+  server: uk01-cdn.airport-v2.com
+  port: 2086
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1F5\U0001F1F1 PL 1584 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: pl01x.myn1des.com
+  server: 5.188.108.121
+  port: 2087
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1F8\U0001F1EC SG 1585 VMS"
+  ws-opts:
+    path: /mugua
+    headers:
+      host: sg-balancer.tencent.best
+  server: 3.1.222.243
+  port: 2087
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1F0\U0001F1F7 KR 1586 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: mugua-kr01.covid19.rip
+  server: 43.201.67.138
+  port: 2087
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+  tls: true
+- type: vmess
+  name: "\U0001F1E6\U0001F1F7 AR 1587 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: ag01-cdn.myn1des.com
+  server: 131.255.7.29
+  port: 2086
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1E9\U0001F1EA DE 1588 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: de01-cdn.airport-v2.com
+  server: 185.208.206.44
+  port: 2086
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1ED\U0001F1F0 HK 1589 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: hkt2-cdn.tencent.best
+  server: 42.98.38.129
+  port: 2086
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1ED\U0001F1F0 HK 1590 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: hkt3-cdn.tencent.best
+  server: 219.77.150.171
+  port: 2086
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
+- type: vmess
+  name: "\U0001F1EC\U0001F1E7 GB 1591 VMS"
+  ws-opts:
+    path: /
+    headers:
+      host: uk01-cdn.airport-v2.com
+  server: 37.61.229.13
+  port: 2086
+  uuid: 87d9da8f-7839-37f8-b7f2-a7be22ae3833
+  alterId: '0'
+  cipher: auto
+  network: ws
 proxy-groups:
 - name: automatic
   type: url-test
@@ -12944,6 +14086,97 @@ proxy-groups:
   - "\U0001F1F8\U0001F1EC SG 1498 TJN"
   - "\U0001F1FB\U0001F1F3 VN 1499 TJN"
   - "\U0001F1F8\U0001F1EC SG 1500 TJN"
+  - "\U0001F1E8\U0001F1F3 CN 1501 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1502 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1503 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1504 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1505 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1506 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1507 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1508 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1509 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1510 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1511 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1512 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1513 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1514 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1515 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1516 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1517 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1518 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1519 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1520 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1521 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1522 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1523 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1524 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1525 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1526 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1527 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1528 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1529 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1530 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1531 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1532 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1533 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1534 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1535 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1536 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1537 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1538 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1539 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1540 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1541 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1542 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1543 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1544 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1545 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1546 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1547 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1548 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1549 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1550 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1551 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1552 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1553 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1554 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1555 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1556 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1557 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1558 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1559 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1560 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1561 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1562 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1563 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1564 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1565 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1566 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1567 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1568 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1569 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1570 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1571 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1572 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1573 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1574 VMS"
+  - "\U0001F1ED\U0001F1F0 HK 1575 VMS"
+  - "\U0001F1ED\U0001F1F0 HK 1576 VMS"
+  - "\U0001F1ED\U0001F1F0 HK 1577 VMS"
+  - "\U0001F1ED\U0001F1F0 HK 1578 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1579 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1580 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1581 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1582 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1583 VMS"
+  - "\U0001F1F5\U0001F1F1 PL 1584 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1585 VMS"
+  - "\U0001F1F0\U0001F1F7 KR 1586 VMS"
+  - "\U0001F1E6\U0001F1F7 AR 1587 VMS"
+  - "\U0001F1E9\U0001F1EA DE 1588 VMS"
+  - "\U0001F1ED\U0001F1F0 HK 1589 VMS"
+  - "\U0001F1ED\U0001F1F0 HK 1590 VMS"
+  - "\U0001F1EC\U0001F1E7 GB 1591 VMS"
   url: https://www.google.com/favicon.ico
   interval: 300
 - name: "\U0001F310 Proxy"
@@ -14450,5 +15683,96 @@ proxy-groups:
   - "\U0001F1F8\U0001F1EC SG 1498 TJN"
   - "\U0001F1FB\U0001F1F3 VN 1499 TJN"
   - "\U0001F1F8\U0001F1EC SG 1500 TJN"
+  - "\U0001F1E8\U0001F1F3 CN 1501 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1502 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1503 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1504 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1505 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1506 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1507 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1508 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1509 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1510 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1511 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1512 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1513 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1514 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1515 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1516 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1517 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1518 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1519 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1520 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1521 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1522 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1523 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1524 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1525 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1526 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1527 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1528 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1529 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1530 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1531 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1532 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1533 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1534 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1535 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1536 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1537 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1538 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1539 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1540 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1541 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1542 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1543 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1544 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1545 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1546 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1547 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1548 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1549 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1550 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1551 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1552 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1553 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1554 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1555 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1556 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1557 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1558 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1559 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1560 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1561 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1562 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1563 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1564 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1565 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1566 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1567 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1568 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1569 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1570 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1571 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1572 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1573 VMS"
+  - "\U0001F1E8\U0001F1F3 CN 1574 VMS"
+  - "\U0001F1ED\U0001F1F0 HK 1575 VMS"
+  - "\U0001F1ED\U0001F1F0 HK 1576 VMS"
+  - "\U0001F1ED\U0001F1F0 HK 1577 VMS"
+  - "\U0001F1ED\U0001F1F0 HK 1578 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1579 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1580 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1581 VMS"
+  - "\U0001F1FA\U0001F1F3 UN 1582 VMS"
+  - "\U0001F1FA\U0001F1F8 US 1583 VMS"
+  - "\U0001F1F5\U0001F1F1 PL 1584 VMS"
+  - "\U0001F1F8\U0001F1EC SG 1585 VMS"
+  - "\U0001F1F0\U0001F1F7 KR 1586 VMS"
+  - "\U0001F1E6\U0001F1F7 AR 1587 VMS"
+  - "\U0001F1E9\U0001F1EA DE 1588 VMS"
+  - "\U0001F1ED\U0001F1F0 HK 1589 VMS"
+  - "\U0001F1ED\U0001F1F0 HK 1590 VMS"
+  - "\U0001F1EC\U0001F1E7 GB 1591 VMS"
 rules:
 - "MATCH,\U0001F310 Proxy"
